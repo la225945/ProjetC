@@ -1,0 +1,11 @@
+{
+    "dotnet-test-explorer.autoWatch": false,
+    "dotnet-test-explorer.autoExpandTree": true,
+    "dotnet-test-explorer.testProjectPath": "Test*",
+    "dotnet-test-explorer.runInParallel": false,
+    "dotnet-test-explorer.treeMode": "merged",
+    "dotnet-test-explorer.addProblems": false,
+    "dotnet-test-explorer.enableTelemetry": false,
+    "dotnet.testWindow.disableAutoDiscovery": true,
+    "dotnet.projects.enableAutomaticRestore": false,
+}

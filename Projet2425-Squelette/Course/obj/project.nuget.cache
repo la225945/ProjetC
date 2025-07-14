@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4JJymwK9+QI=",
+  "success": true,
+  "projectFilePath": "/home/ue108/projects/C/course/Projet2425-Squelette/Course/Course.csproj",
+  "expectedPackageFiles": [
+    "/home/ue108/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.1/microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "/home/ue108/.nuget/packages/mysqlconnector/2.3.7/mysqlconnector.2.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}
